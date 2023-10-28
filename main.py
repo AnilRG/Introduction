@@ -11,3 +11,5 @@ def add(x, y):
 print(add(3,4))
 
 print("Hi again and again")
+
+print(x)
