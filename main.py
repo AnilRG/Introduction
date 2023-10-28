@@ -2,3 +2,5 @@ import calculate
 print("hello world!")
 
 print(calculate.x)
+print("Hi")
+print("Hi Agian")
